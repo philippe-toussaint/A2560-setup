@@ -3,7 +3,7 @@ General information to set up a development environment for Foenix A2560 compute
 
 ## Discord chanel.
 
-For general and specific discussion about Foenix retro computers and related softwares
+For general and specific discussions about Foenix retro computers and related softwares
  - https://discord.com/channels/691915291721990194/879133933063798814
 
 
